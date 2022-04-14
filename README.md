@@ -1,6 +1,6 @@
 # Modelli e tecniche per i Big Data, Progetto a.a. 2021/22
 
-Obiettivo: 
+Obiettivo: realizzare un’applicazione che permetta di effettuare interrogazioni aggregate su un dataset contenente informazioni su un insieme di post geotaggati della piattaforma Flickr 
 
 ## Framework utilizzati
 - Spark + Scala per il backend
