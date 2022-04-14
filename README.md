@@ -8,4 +8,4 @@ Obiettivo:
 
 ---
 
-Il progetto è stato realizzato in gruppo con Cristian Giuseppe Costa @crigiu98
+Il progetto è stato realizzato in gruppo con Cristian Giuseppe Costa @CriGiu
