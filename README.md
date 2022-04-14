@@ -8,4 +8,4 @@ Obiettivo: realizzare un’applicazione che permetta di effettuare interrogazion
 
 ---
 
-Il progetto è stato realizzato in gruppo con Cristian Giuseppe Costa @CriGiu
+Il progetto è stato realizzato in gruppo.
